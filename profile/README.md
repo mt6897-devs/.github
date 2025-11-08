@@ -20,6 +20,8 @@ This organization contains all the important repositories required to build AOSP
 * [**Aperture**](https://github.com/Nothing-2A/android_packages_apps_Aperture/commit/a4c34aa57ed56de60f29349a1e6d20cf8160ca15) (`android_packages_apps_Aperture`)
 * [**Frameworks av**](https://github.com/mt6897-devs/android_frameworks_av/commit/cc9281087adbd27c6f7fdde0d7a0502835ab86d6) (`android_frameworks_av`)
 * [**Lineage compat hardware**](https://review.lineageos.org/c/LineageOS/android_hardware_lineage_compat/+/447604) (`android_hardware_lineage_compat`)
+* [**MediaTek changes for wpa_supplicant_8**](https://github.com/Nothing-2A/android_external_wpa_supplicant_8/commit/39200b6c7b1f9ff1c1c6a6a5e4cd08c6f526d048) (`android_external_wpa_supplicant_8`)
+* [**Enable WAPI for wpa_supplicant_8**](https://github.com/Nothing-2A/android_external_wpa_supplicant_8/commit/37a6e255d9d68fb483d12db550028749b280509b) (`android_external_wpa_supplicant_8`)
 
 ### Device kernel repositories
 * [**Kernel sources**](https://github.com/mt6897-devs/kernel_manifest) (`kernel_manifest`)
