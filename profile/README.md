@@ -18,7 +18,6 @@ This organization contains all the important repositories required to build AOSP
 
 ### Required patches
 * [**Aperture**](https://github.com/Nothing-2A/android_packages_apps_Aperture/commit/a4c34aa57ed56de60f29349a1e6d20cf8160ca15) (`android_packages_apps_Aperture`)
-* [**MediaTek changes for wpa_supplicant_8**](https://github.com/Nothing-2A/android_external_wpa_supplicant_8/commit/64d58ce22f068fa0880412baea8de8e9aa82102f) (`android_external_wpa_supplicant_8`)
 
 ### Device kernel repositories
 * [**Kernel sources**](https://github.com/mt6897-devs/kernel_manifest) (`kernel_manifest`)
