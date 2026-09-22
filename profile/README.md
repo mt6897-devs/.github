@@ -12,13 +12,12 @@ This organization contains all the important repositories required to build AOSP
 * [**Vendor tree**](https://github.com/mt6897-devs/vendor_xiaomi_duchamp) (`vendor_xiaomi_duchamp`)
 
 ### Other required repositories
-* [**MediaTek sepolicy**](https://github.com/mt6897-devs/device_mediatek_sepolicy_vndr) (`device_mediatek_sepolicy_vndr`)
-* [**MediaTek hardware**](https://github.com/mt6897-devs/hardware_mediatek) (`hardware_mediatek`)
+* [**MediaTek sepolicy**](https://github.com/LineageOS/android_device_mediatek_sepolicy_vndr) (`device_mediatek_sepolicy_vndr`)
+* [**MediaTek hardware**](https://github.com/LineageOS/android_hardware_mediatek) (`hardware_mediatek`)
 * [**Xiaomi hardware**](https://github.com/mt6897-devs/hardware_xiaomi) (`hardware_xiaomi`)
 
 ### Required patches
 * [**Aperture**](https://github.com/Nothing-2A/android_packages_apps_Aperture/commit/a4c34aa57ed56de60f29349a1e6d20cf8160ca15) (`android_packages_apps_Aperture`)
-* [**Bluetooth**](https://github.com/mt6897-devs/packages_modules_Bluetooth/commit/92549f3b3ed77c98ca4bc7316bfd2f0662ac11f9) (`packages_modules_Bluetooth`)
 
 ### Device kernel repositories
 * [**Kernel sources**](https://github.com/mt6897-devs/kernel_manifest) (`kernel_manifest`)
